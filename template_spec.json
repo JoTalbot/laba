@@ -1,0 +1,5 @@
+{
+  "output_pattern": "111ЛАБ.pdf",
+  "fields": ["discipline", "topic", "lab_number", "student", "teacher", "year", "goal", "tasks", "solutions", "screenshots", "conclusion"],
+  "source_template": "шаблонdocx.docx"
+}
